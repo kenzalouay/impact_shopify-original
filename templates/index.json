@@ -306,6 +306,14 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "image_iYK4Xf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-10_a_22.30.42-removebg-preview.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "buy_buttons_Mr6RQw": {
           "type": "buy_buttons",
           "settings": {
@@ -325,6 +333,7 @@
         "price_Nx3iiR",
         "separator_bMFNkC",
         "quantity_selector_jNpGW3",
+        "image_iYK4Xf",
         "buy_buttons_Mr6RQw"
       ],
       "name": "Featured product",
