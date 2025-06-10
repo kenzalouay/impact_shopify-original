@@ -56,7 +56,7 @@
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
-        "menu_open_trigger": "hover",
+        "menu_open_trigger": "click",
         "opening_from": "left",
         "layout": "drawer",
         "show_social_media": true,
