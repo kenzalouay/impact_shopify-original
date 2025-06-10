@@ -132,6 +132,32 @@
         "overlay_opacity": 30
       }
     },
+    "rich_text_xJCjD3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_haTBJR": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultat Avant /Après",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_haTBJR"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "before-after-image": {
       "type": "before-after-image",
       "settings": {
@@ -236,6 +262,7 @@
     "logo_list_t7BRGC",
     "rich_text_TQ6ttF",
     "image_with_text_overlay_TCz6Pr",
+    "rich_text_xJCjD3",
     "before-after-image",
     "faq_twKXhx",
     "contact_tUFJaa"
