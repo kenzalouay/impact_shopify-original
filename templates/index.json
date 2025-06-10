@@ -14,8 +14,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "title": "Avant / Après",
+        "content": "",
         "before_image": "shopify://shop_images/HC520PECO_TYMO_CURLGO_ECO_cordless_portable_auto_curler_product_details_image_all_before_after_05.jpg",
         "after_image": "shopify://shop_images/HC520PECO_TYMO_CURLGO_ECO_cordless_portable_auto_curler_product_details_image_all_before_after_06.jpg",
         "expand_image": false,
