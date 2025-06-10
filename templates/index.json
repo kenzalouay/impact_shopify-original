@@ -9,45 +9,31 @@
  */
 {
   "sections": {
-    "slideshow_ecYYFN": {
-      "type": "slideshow",
+    "image_with_text_overlay_fykWjH": {
+      "type": "image-with-text-overlay",
       "blocks": {
-        "image_MnfUiP": {
-          "type": "image",
+        "heading_PLjMNF": {
+          "type": "heading",
           "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide 1",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
+            "text": "Coiffez vous , où que vous soyez",
+            "heading_tag": "h2"
           }
         }
       },
       "block_order": [
-        "image_MnfUiP"
+        "heading_PLjMNF"
       ],
-      "name": "Slideshow",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
-        "show_initial_transition": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
         "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "before-after-image": {
@@ -72,47 +58,6 @@
         "after_text_color": "#ffffff",
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
-      }
-    },
-    "image_with_text_overlay_DEXBHP": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_RnXkaa": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_WkbTcX": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_WHijpm": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_RnXkaa",
-        "heading_WkbTcX",
-        "richtext_WHijpm"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "faq_twKXhx": {
@@ -191,9 +136,8 @@
     }
   },
   "order": [
-    "slideshow_ecYYFN",
+    "image_with_text_overlay_fykWjH",
     "before-after-image",
-    "image_with_text_overlay_DEXBHP",
     "faq_twKXhx",
     "contact_tUFJaa"
   ]
