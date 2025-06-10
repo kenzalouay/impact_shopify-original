@@ -160,28 +160,11 @@
     },
     "video_idtUCR": {
       "type": "video",
-      "blocks": {
-        "play_DWMXgc": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_h7R7ja": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_DWMXgc",
-        "heading_h7R7ja"
-      ],
       "name": "Video",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
+        "autoplay": true,
         "video_size": "auto",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
@@ -189,28 +172,63 @@
         "overlay_opacity": 30
       }
     },
-    "before-after-image": {
-      "type": "before-after-image",
+    "multi_column_dyePcr": {
+      "type": "multi-column",
+      "blocks": {
+        "item_rUF4kM": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Samantha",
+            "heading_tag": "h4",
+            "content": "<p><strong>Livraison très rapide et en excellent état.</strong>Le produit utilisé est incroyable, je recommande vivement l'achat de cet article.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6UcUne": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Liz",
+            "heading_tag": "h4",
+            "content": "<p><strong>L’un de mes meilleurs achats !</strong>Ce fer à boucler est le meilleur, il est super pratique et agréable à utiliser. Le top, c’est qu’il n’a pas besoin d’être branché pour fonctionner, donc on peut l’emporter partout. Je l’adore 🥰</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qjX3Jt": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_rUF4kM",
+        "item_6UcUne",
+        "item_qjX3Jt"
+      ],
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
         "subheading": "",
-        "title": "Avant / Après",
+        "title": "Nos clientes en parlent le mieux",
         "content": "",
-        "before_image": "shopify://shop_images/HC520PECO_TYMO_CURLGO_ECO_cordless_portable_auto_curler_product_details_image_all_before_after_05.jpg",
-        "after_image": "shopify://shop_images/HC520PECO_TYMO_CURLGO_ECO_cordless_portable_auto_curler_product_details_image_all_before_after_06.jpg",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "text_color": ""
       }
     },
     "faq_twKXhx": {
@@ -295,7 +313,7 @@
     "image_with_text_overlay_TCz6Pr",
     "rich_text_xJCjD3",
     "video_idtUCR",
-    "before-after-image",
+    "multi_column_dyePcr",
     "faq_twKXhx",
     "contact_tUFJaa"
   ]
