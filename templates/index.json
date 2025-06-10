@@ -286,9 +286,11 @@
             "heading_tag": "h2"
           }
         },
-        "badges_cb9ch4": {
-          "type": "badges",
-          "settings": {}
+        "liquid_UW9JTT": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <style>\n        .cls-xj7hJ9K {\n            display: flex;\n            align-items: center;\n            font-family: Arial, sans-serif;\n            color: #D9534F; /* Daha yumuşak kırmızı tonu */\n        }\n\n        .icon-xj7hJ9K {\n            margin-right: 8px;\n            color: #D9534F; /* Daha yumuşak kırmızı tonu */\n            width: 8px; /* Genişlik ayarı */\n            height: 8px; /* Yükseklik ayarı */\n            animation: blink-xj7hJ9K 1s infinite, wave-glow-xj7hJ9K 2s infinite;\n        }\n\n        @keyframes blink-xj7hJ9K {\n            0%, 100% {\n                opacity: 1;\n            }\n            50% {\n                opacity: 0.2;\n            }\n        }"
+          }
         },
         "price_Nx3iiR": {
           "type": "price",
@@ -323,7 +325,7 @@
       "block_order": [
         "liquid_XxwNWb",
         "title_rMYWgc",
-        "badges_cb9ch4",
+        "liquid_UW9JTT",
         "price_Nx3iiR",
         "separator_bMFNkC",
         "quantity_selector_jNpGW3",
