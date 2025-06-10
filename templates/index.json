@@ -316,10 +316,6 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "pickup_availability_A6adh4": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
@@ -329,8 +325,7 @@
         "price_Nx3iiR",
         "separator_bMFNkC",
         "quantity_selector_jNpGW3",
-        "buy_buttons_Mr6RQw",
-        "pickup_availability_A6adh4"
+        "buy_buttons_Mr6RQw"
       ],
       "name": "Featured product",
       "settings": {
