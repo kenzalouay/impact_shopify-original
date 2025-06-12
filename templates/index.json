@@ -390,12 +390,30 @@
             "content": "<p>La livraison gratuite à domicile est gratuite. Selon le volume de commandes à traiter, le délai de livraison est estimé entre 7 et 12 jours ouvrés.</p>",
             "page": ""
           }
+        },
+        "tab_eKD7Nj": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7j/7",
+            "content": "<p>Votre équipe est à votre disposition pour répondre à vos questions sept jours sur sept.</p><p>Vous pouvez nous contacter par email ou téléphone aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
+            "page": ""
+          }
+        },
+        "tab_ghCYfp": {
+          "type": "tab",
+          "settings": {
+            "title": "Charge optimal",
+            "content": "<p>Pour garantir des performances optimales et une longue durée de vie de votre My Curlora Curl&GO, nous vous recommandons de la charger en utilisant un dock de charge d'une puissance minimale de 20W (charge rapide).</p><p>L'utilisation d'un chargeur rapide permet non seulement de réduire le temps de charge, mais également d'assurer une charge efficace et sécurisée. Cela est particulièrement important pour maintenir la performance et la durabilité de votre appareil.</p><p>Veuillez vérifier les spécifications de votre chargeur pour vous assurer qu'il répond à cette exigence. Une charge adéquate contribue à maximiser l'efficacité de votre My curlora Curl&GO et à prolonger sa durée de vie.</p><p>Merci pour votre compréhension et votre coopération.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_Gpcxtj",
         "tab_V3qPnE",
-        "tab_wzGUVx"
+        "tab_wzGUVx",
+        "tab_eKD7Nj",
+        "tab_ghCYfp"
       ],
       "name": "Tabs",
       "settings": {
