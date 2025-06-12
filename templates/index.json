@@ -23,7 +23,6 @@
       "block_order": [
         "heading_PLjMNF"
       ],
-      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -43,20 +42,23 @@
         "logo_wRmEYi": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Capture_d_ecran_2025-06-12_a_22.32.23-removebg-preview.png",
+            "logo_width": 270,
             "link": ""
           }
         },
         "logo_zNY6a7": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/cart_logo_VOGUE-removebg-preview.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_8Jnaax": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/cartlogo_People-removebg-preview.png",
             "logo_width": 120,
             "link": ""
           }
@@ -64,7 +66,8 @@
         "logo_AiFFWy": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Capture_d_ecran_2025-06-10_a_22.02.25-removebg-preview.png",
+            "logo_width": 300,
             "link": ""
           }
         }
@@ -75,7 +78,6 @@
         "logo_8Jnaax",
         "logo_AiFFWy"
       ],
-      "name": "Logo list",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -108,7 +110,6 @@
       "block_order": [
         "heading_MjpXj9"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -120,7 +121,6 @@
     },
     "image_with_text_overlay_TCz6Pr": {
       "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -150,7 +150,6 @@
       "block_order": [
         "heading_haTBJR"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -162,7 +161,6 @@
     },
     "video_idtUCR": {
       "type": "video",
-      "name": "Video",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -258,7 +256,6 @@
         "item_QiJxJF",
         "item_CY4KGT"
       ],
-      "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
@@ -346,7 +343,6 @@
         "buy_buttons_Mr6RQw",
         "image_67t7nF"
       ],
-      "name": "Featured product",
       "settings": {
         "full_width": true,
         "product": "curl-go",
@@ -416,7 +412,6 @@
         "tab_eKD7Nj",
         "tab_ghCYfp"
       ],
-      "name": "Tabs",
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -477,7 +472,6 @@
         "item_rfHCFL",
         "item_LgmrHH"
       ],
-      "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
@@ -502,7 +496,6 @@
     },
     "contact_tUFJaa": {
       "type": "contact",
-      "name": "Contact form",
       "settings": {
         "full_width": true,
         "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
