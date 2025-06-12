@@ -170,8 +170,8 @@
         "video": "shopify://files/videos/v3.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_color": "#3d3d3d",
+        "overlay_opacity": 0
       }
     },
     "multi_column_dyePcr": {
@@ -180,10 +180,11 @@
         "item_rUF4kM": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1700642433__0__efTzveOU__71myRQRTJvL__original.jpg",
             "column_size": "3",
             "title": "Samantha T.",
             "heading_tag": "h4",
-            "content": "<p><strong>Livraison très rapide et en excellent état.</strong>Le produit utilisé est incroyable, je recommande vivement l'achat de cet article.</p>",
+            "content": "<p><strong>Livraison très rapide et en excellent état. </strong>Le Mycurlora est incroyable, je recommande vivement l'achat de ce produit.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
