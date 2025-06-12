@@ -193,6 +193,7 @@
         "item_6UcUne": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1744372464__inbound1529244614706669023__original.jpg",
             "column_size": "3",
             "title": "Liz M.",
             "heading_tag": "h4",
@@ -205,6 +206,7 @@
         "item_qjX3Jt": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1747758030__img_9362__original.jpg",
             "column_size": "3",
             "title": "Jennifer P.",
             "heading_tag": "h4",
@@ -217,6 +219,7 @@
         "item_DxGABa": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1742407209__img_6409__original.jpg",
             "column_size": "3",
             "title": "Amel O.",
             "heading_tag": "h4",
@@ -229,6 +232,7 @@
         "item_QiJxJF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1744372464__inbound1529244614706669023__original_3f0c45f2-0181-4423-ba61-11e4292b4edb.jpg",
             "column_size": "3",
             "title": "Léa T.",
             "heading_tag": "h4",
@@ -241,10 +245,11 @@
         "item_CY4KGT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1737346847__1000019796__original.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Justine B.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Avant, je zappais souvent la case coiffure par manque de temps. Maintenant, je fais mes boucles dans la voiture en 5 minutes avec MyCurlora. Je ne peux plus m’en passer !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
