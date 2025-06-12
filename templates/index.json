@@ -509,15 +509,15 @@
         "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
         "text_position": "center",
         "contact_form_size": "large",
-        "background": "",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "button_background": "#f0c417",
+        "button_text_color": "#1a1a1a"
       }
     }
   },
