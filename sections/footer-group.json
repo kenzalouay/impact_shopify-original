@@ -43,7 +43,7 @@
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-mailbox",
+            "icon": "picto-return",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
