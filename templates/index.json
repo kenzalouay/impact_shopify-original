@@ -15,7 +15,7 @@
         "heading_PLjMNF": {
           "type": "heading",
           "settings": {
-            "text": "Coiffez vous , où que vous soyez",
+            "text": "",
             "heading_tag": "h2"
           }
         }
@@ -29,11 +29,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/banner.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "logo_list_t7BRGC": {
