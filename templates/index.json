@@ -436,29 +436,45 @@
         "item_g3QJXD": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Le boucleur sans fil Curl&Go est-il adapté à mes cheveux ?",
+            "content": "<p>Lors de la conception du Curl&Go, nous avons veillé à ce qu’il convienne à<strong>tous les types et longueurs de cheveux</strong>. Grâce à ses 3 niveaux de température (160°, 180°, 200°) et sa technologie anti-frisottis, il s’adapte parfaitement aux cheveux fins, normaux ou épais.</p>"
           }
         },
         "item_jfTERw": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Comment utiliser My Curlora Curl&Go ?",
+            "content": "<p>Le Curl&Go est conçu pour être <strong>ultra simple à utiliser</strong>. Il suffit d’insérer une mèche, de choisir le sens de rotation (gauche ou droite) et de laisser l’appareil faire le travail. Un <strong>guide d’utilisation illustré </strong>est fourni dans le colis pour vous accompagner pas à pas.</p>"
           }
         },
         "item_cVGyTg": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Que faire si le Curl&Go ne répond pas à mes attentes ?",
+            "content": "<p>Nous sommes convaincus que vous allez adorer votre Curl&Go !<br/>Cependant, si vous n’êtes pas entièrement satisfait(e),<strong>vous pouvez le retourner sous 14 jours </strong>et obtenir un <strong>remboursement complet</strong>, sans justification.</p>"
+          }
+        },
+        "item_rfHCFL": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que vous livrez à l’étranger ?",
+            "content": "<p>Oui, <strong>nous livrons partout dans le monde.</strong></p>"
+          }
+        },
+        "item_LgmrHH": {
+          "type": "item",
+          "settings": {
+            "title": "Quel est le délai de livraison ?",
+            "content": "<p>Le délai dépend du volume de commandes et de votre localisation.<br/>• Pour la <strong>France métropolitaine</strong>, la livraison prend généralement 6<strong> à 10 jours ouvrés</strong>.<br/>• Pour l’<strong>international</strong>, comptez environ 7<strong> à 12 jours ouvrés</strong>.<br/>Tous les détails vous seront envoyés par email après votre commande.</p>"
           }
         }
       },
       "block_order": [
         "item_g3QJXD",
         "item_jfTERw",
-        "item_cVGyTg"
+        "item_cVGyTg",
+        "item_rfHCFL",
+        "item_LgmrHH"
       ],
       "name": "FAQ",
       "settings": {
