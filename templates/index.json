@@ -101,7 +101,7 @@
         "heading_MjpXj9": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir My Curlora?",
+            "text": "Un geste, et tout change",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -127,7 +127,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/benefice_destok.png",
+        "image": "shopify://shop_images/benefice.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
