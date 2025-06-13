@@ -27,11 +27,19 @@
             "text": "Satisfait ou Remboursé",
             "url": ""
           }
+        },
+        "message_ff9nHL": {
+          "type": "message",
+          "settings": {
+            "text": "Offre de printemps",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_EYDmid"
+        "message_EYDmid",
+        "message_ff9nHL"
       ],
       "settings": {
         "enable_sticky": false,
@@ -39,7 +47,7 @@
         "cycle_speed": 5,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
-        "scrolling_speed": 20,
+        "scrolling_speed": 28,
         "background": "#c48c8c",
         "background_gradient": "",
         "text_color": "#ffffff"
