@@ -141,7 +141,7 @@
         "heading_haTBJR": {
           "type": "heading",
           "settings": {
-            "text": "Résultat       Avant /Après",
+            "text": "Avant / Après",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
