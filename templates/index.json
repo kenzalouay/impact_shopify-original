@@ -441,7 +441,7 @@
           "type": "item",
           "settings": {
             "title": "Le boucleur sans fil Curl&Go est-il adapté à mes cheveux ?",
-            "content": "<p>Lors de la conception du Curl&Go, nous avons veillé à ce qu’il convienne à<strong>tous les types et longueurs de cheveux</strong>. Grâce à ses 3 niveaux de température (160°, 180°, 200°) et sa technologie anti-frisottis, il s’adapte parfaitement aux cheveux fins, normaux ou épais.</p>"
+            "content": "<p>Lors de la conception du Curl&Go, nous avons veillé à ce qu’il convienne à <strong>tous les types et longueurs de cheveux</strong>. Grâce à ses 3 niveaux de température (160°, 180°, 200°) et sa technologie anti-frisottis, il s’adapte parfaitement aux cheveux fins, normaux ou épais.</p>"
           }
         },
         "item_jfTERw": {
@@ -469,7 +469,7 @@
           "type": "item",
           "settings": {
             "title": "Quel est le délai de livraison ?",
-            "content": "<p>Le délai dépend du volume de commandes et de votre localisation.<br/>• Pour la <strong>France métropolitaine</strong>, la livraison prend généralement 6<strong> à 10 jours ouvrés</strong>.<br/>• Pour l’<strong>international</strong>, comptez environ 7<strong> à 12 jours ouvrés</strong>.<br/>Tous les détails vous seront envoyés par email après votre commande.</p>"
+            "content": "<p>Le délai dépend du volume de commandes et de votre localisation.<br/>• Pour la <strong>France métropolitaine</strong>, la livraison prend généralement <strong>6 à 10 jours ouvrés</strong>.<br/>• Pour l’<strong>international</strong>, comptez environ 7<strong> à 12 jours ouvrés</strong>.<br/>Tous les détails vous seront envoyés par email après votre commande.</p>"
           }
         }
       },
