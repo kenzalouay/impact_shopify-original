@@ -391,8 +391,8 @@
         "tab_wzGUVx": {
           "type": "tab",
           "settings": {
-            "title": "Comment sa marche?",
-            "content": "<p>!!!!!!!!!!!!!</p>",
+            "title": "Comment utiliser MyCurlora ?",
+            "content": "<p></p><ol><li>Allumez l’appareil en appuyant sur le bouton d’alimentation.</li><li>Sélectionnez la température et la durée en fonction de votre type de cheveux.</li><li>Choisissez le <strong>sens de la boucle</strong> (gauche ou droite) à l’aide des boutons.</li><li>Insérez une mèche dans l’ouverture prévue à cet effet.</li><li>Appuyez sur le bouton : la mèche s’enroulera automatiquement.</li><li>Lorsque vous entendez le bip sonore, relâchez : votre boucle est prête !</li></ol><p>Vous pouvez vous coiffer <strong>n’importe où, n’importe quand</strong>, sans prise ni contrainte.</p>",
             "page": ""
           }
         },
@@ -526,10 +526,10 @@
   "order": [
     "image_with_text_overlay_fykWjH",
     "logo_list_t7BRGC",
-    "rich_text_TQ6ttF",
-    "image_with_text_overlay_TCz6Pr",
     "rich_text_xJCjD3",
     "video_idtUCR",
+    "rich_text_TQ6ttF",
+    "image_with_text_overlay_TCz6Pr",
     "multi_column_dyePcr",
     "featured_product_nxX86g",
     "tabs_ffC8n6",
