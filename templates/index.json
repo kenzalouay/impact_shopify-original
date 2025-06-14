@@ -304,12 +304,6 @@
             "product": "{{section.settings.product}}"
           }
         },
-        "price_Nx3iiR": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "separator_bMFNkC": {
           "type": "separator",
           "settings": {}
@@ -351,7 +345,6 @@
         "title_rMYWgc",
         "liquid_BTrbhb",
         "kaching_bundles_app_block_Jxw7Xg",
-        "price_Nx3iiR",
         "separator_bMFNkC",
         "quantity_selector_jNpGW3",
         "image_iYK4Xf",
