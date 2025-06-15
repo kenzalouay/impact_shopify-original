@@ -463,6 +463,20 @@
             "title": "Est-ce que les boucles tiennent vraiment longtemps ?",
             "content": "<p><strong>Oui ! </strong>Tu peux garder tes boucles jusqu’à 5 jours, même après une nuit ou une journée chargée. C’est l’outil parfait pour un look qui dure. Nous conseillons l'utilisation de bonnet en soie la nuit afin de préserver au maximum ses boucles.</p>"
           }
+        },
+        "item_mWExJt": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que je peux l’utiliser partout ?",
+            "content": "<p><strong>Oui. </strong>Il est sans fil, compact et se recharge via USB‑C. Parfait pour te recoiffer au bureau, en voyage, ou avant une sortie. Il tient dans ton sac.</p>"
+          }
+        },
+        "item_HrAgb7": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
@@ -470,7 +484,9 @@
         "item_jfTERw",
         "item_cVGyTg",
         "item_rfHCFL",
-        "item_LgmrHH"
+        "item_LgmrHH",
+        "item_mWExJt",
+        "item_HrAgb7"
       ],
       "settings": {
         "full_width": true,
