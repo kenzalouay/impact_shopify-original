@@ -56,14 +56,6 @@
             "link": ""
           }
         },
-        "logo_8Jnaax": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/cartlogo_People-removebg-preview.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
         "logo_AiFFWy": {
           "type": "logo",
           "settings": {
@@ -71,13 +63,21 @@
             "logo_width": 300,
             "link": ""
           }
+        },
+        "logo_8Jnaax": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/cartlogo_People-removebg-preview.png",
+            "logo_width": 120,
+            "link": ""
+          }
         }
       },
       "block_order": [
         "logo_wRmEYi",
         "logo_zNY6a7",
-        "logo_8Jnaax",
-        "logo_AiFFWy"
+        "logo_AiFFWy",
+        "logo_8Jnaax"
       ],
       "settings": {
         "full_width": true,
