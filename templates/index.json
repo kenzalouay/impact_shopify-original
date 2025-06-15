@@ -474,8 +474,8 @@
         "item_HrAgb7": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Quelle est la garantie ?",
+            "content": "<p><strong>Tu bénéficies de 2 ans de garantie constructeur</strong>. Et si tu n’es pas satisfaite dans les 30 jours, tu peux nous le renvoyer. On veut que tu sois 100 % ravie.</p>"
           }
         }
       },
