@@ -140,9 +140,9 @@
         "heading_MjpXj9": {
           "type": "heading",
           "settings": {
-            "text": "Un geste, et tout change",
-            "heading_tag": "h1",
-            "text_color": "",
+            "text": "Sublime en un geste",
+            "heading_tag": "h2",
+            "text_color": "#3d3d3d",
             "gradient": ""
           }
         }
@@ -167,6 +167,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/benefice.png",
+        "mobile_image": "shopify://shop_images/Copie_de_Benefit_Feature_-_Ecom_Efficiency-2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
