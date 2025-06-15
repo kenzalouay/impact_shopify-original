@@ -29,7 +29,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/banniere_f469716c-4253-4fde-9b03-b2847315471a.png",
-        "mobile_image": "shopify://shop_images/banniere_f469716c-4253-4fde-9b03-b2847315471a.png",
+        "mobile_image": "shopify://shop_images/Des_boucles_parfaites_n_importe_quand_n_importe_ou.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
