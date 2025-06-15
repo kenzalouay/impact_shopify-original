@@ -432,36 +432,36 @@
         "item_g3QJXD": {
           "type": "item",
           "settings": {
-            "title": "Le boucleur sans fil Curl&Go est-il adapté à mes cheveux ?",
-            "content": "<p>Lors de la conception du Curl&Go, nous avons veillé à ce qu’il convienne à <strong>tous les types et longueurs de cheveux</strong>. Grâce à ses 3 niveaux de température (160°, 180°, 200°) et sa technologie anti-frisottis, il s’adapte parfaitement aux cheveux fins, normaux ou épais.</p>"
+            "title": "Est-ce que c’est facile à utiliser, même si je ne suis pas douée en coiffure ?",
+            "content": "<p><strong>Absolument. </strong>MyCurlora est pensé pour toi : une seule touche suffit. L’appareil attrape la mèche, la boucle automatiquement, et bip quand c’est prêt. Même si tu es débutante, le résultat est pro.</p>"
           }
         },
         "item_jfTERw": {
           "type": "item",
           "settings": {
-            "title": "Comment utiliser My Curlora Curl&Go ?",
-            "content": "<p>Le Curl&Go est conçu pour être <strong>ultra simple à utiliser</strong>. Il suffit d’insérer une mèche, de choisir le sens de rotation (gauche ou droite) et de laisser l’appareil faire le travail. Un <strong>guide d’utilisation illustré </strong>est fourni dans le colis pour vous accompagner pas à pas.</p>"
+            "title": "e me suis déjà brûlée avec des boucleurs classiques… c’est vraiment sécurisé ?",
+            "content": "<p><strong>Oui, totalement. </strong>Le design anti-brûlure 360° protège tes doigts et ton cuir chevelu. Tu peux l’utiliser sans crainte, même sans miroir.</p>"
           }
         },
         "item_cVGyTg": {
           "type": "item",
           "settings": {
-            "title": "Que faire si le Curl&Go ne répond pas à mes attentes ?",
-            "content": "<p>Nous sommes convaincus que vous allez adorer votre Curl&Go !<br/>Cependant, si vous n’êtes pas entièrement satisfait(e),<strong>vous pouvez le retourner sous 14 jours </strong>et obtenir un <strong>remboursement complet</strong>, sans justification.</p>"
+            "title": "Est-ce que ça abîme les cheveux ?",
+            "content": "<p><strong>Au contraire. </strong>Grâce à la technologie T‑Gloss et aux ions négatifs, MyCurlora respecte ta fibre capillaire, réduit les frisottis et rend tes cheveux plus brillants à chaque passage.</p>"
           }
         },
         "item_rfHCFL": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que vous livrez à l’étranger ?",
-            "content": "<p>Oui, <strong>nous livrons partout dans le monde.</strong></p>"
+            "title": "J’ai les cheveux très épais / très fins, coloré/ abimé… est-ce que ça fonctionne sur moi ?",
+            "content": "<p><strong>Oui. </strong>MyCurlora s’adapte à tous types de cheveux grâce à ses 3 niveaux de température et son capteur intelligent. Il maîtrise aussi bien les mèches épaisses que les plus fines.</p>"
           }
         },
         "item_LgmrHH": {
           "type": "item",
           "settings": {
-            "title": "Quel est le délai de livraison ?",
-            "content": "<p>Le délai dépend du volume de commandes et de votre localisation.<br/>• Pour la <strong>France métropolitaine</strong>, la livraison prend généralement <strong>6 à 10 jours ouvrés</strong>.<br/>• Pour l’<strong>international</strong>, comptez environ 7<strong> à 12 jours ouvrés</strong>.<br/>Tous les détails vous seront envoyés par email après votre commande.</p>"
+            "title": "Est-ce que les boucles tiennent vraiment longtemps ?",
+            "content": "<p><strong>Oui ! </strong>Tu peux garder tes boucles jusqu’à 5 jours, même après une nuit ou une journée chargée. C’est l’outil parfait pour un look qui dure. Nous conseillons l'utilisation de bonnet en soie la nuit afin de préserver au maximum ses boucles.</p>"
           }
         }
       },
