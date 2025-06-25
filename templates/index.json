@@ -345,7 +345,7 @@
       ],
       "settings": {
         "full_width": true,
-        "product": "curl-go",
+        "product": "mycurlora",
         "desktop_media_width": 40,
         "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "contained",
