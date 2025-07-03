@@ -299,6 +299,14 @@
             "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">Excellent 4.7/5</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555; font-weight: bold; text-decoration: underline;\">(+ 880 Avis)</span>\n    </a>\n</body>"
           }
         },
+        "image_pDrTeb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SOLDES_D_ETE.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "kaching_bundles_app_block_Jxw7Xg": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -343,6 +351,7 @@
         "title_rMYWgc",
         "text_nRkEBb",
         "liquid_XxwNWb",
+        "image_pDrTeb",
         "kaching_bundles_app_block_Jxw7Xg",
         "liquid_BTrbhb",
         "separator_bMFNkC",
