@@ -281,16 +281,22 @@
     "featured_product_nxX86g": {
       "type": "featured-product",
       "blocks": {
-        "liquid_XxwNWb": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.7</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555; font-weight: bold; text-decoration: underline;\">(+ 884 avis)</span>\n    </a>\n</body>"
-          }
-        },
         "title_rMYWgc": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
+          }
+        },
+        "text_nRkEBb": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"J'étais sceptique au début, mais MyCurlora a transformé ma routine matinale. En 10 minutes, j'ai des boucles parfaites qui tiennent toute la journée. Fini les heures devant le miroir !\"</em> - <strong>Sarah M.</strong></p>"
+          }
+        },
+        "liquid_XxwNWb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.7</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555; font-weight: bold; text-decoration: underline;\">(+ 884 avis)</span>\n    </a>\n</body>"
           }
         },
         "liquid_BTrbhb": {
@@ -334,8 +340,9 @@
         }
       },
       "block_order": [
-        "liquid_XxwNWb",
         "title_rMYWgc",
+        "text_nRkEBb",
+        "liquid_XxwNWb",
         "liquid_BTrbhb",
         "kaching_bundles_app_block_Jxw7Xg",
         "separator_bMFNkC",
