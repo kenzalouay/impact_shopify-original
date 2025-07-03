@@ -351,6 +351,12 @@
           "settings": {
             "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
           }
+        },
+        "liquid_yBTAXq": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% comment %}\n  Définir la date actuelle\n{% endcomment %}\n{% assign today_day = 'now' | date: \"%-d\" %}\n{% assign today_month_index = 'now' | date: \"%-m\" | minus: 1 %}\n{% assign months_fr = \"janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre\" | split: \",\" %}\n{% assign today_month_name = months_fr[today_month_index] %}\n\n{% comment %}\n  Définir la date de livraison J+10\n{% endcomment %}\n{% assign timestamp_today = 'now' | date: \"%s\" %}\n{% assign timestamp_delivery = timestamp_today | plus: 864000 %}\n{% assign delivery_day = timestamp_delivery | date: \"%-d\" %}\n{% assign delivery_month_index = timestamp_delivery | date: \"%-m\" | minus: 1 %}\n{% assign delivery_month_name = months_fr[delivery_month_index] %}\n\n<div style=\"background-color: #e6f9f3; border-radius: 10px; padding: 20px; display: flex; align-items: center; justify-content: space-between; max-width: 400px; font-family: sans-serif;\">\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <svg width=\"24\" height=\"24\" fill=\"none\" stroke=\"#004d40\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\"></circle>\n      <polyline points=\"12 6 12 12 16 14\"></polyline>\n    </svg>\n    <div>\n      <div style=\"font-size: 14px; color: #004d40;\">Commande</div>\n      <div style=\"font-weight: bold; color: #004d40;\">Aujourd'hui</div>\n    </div>\n  </div>\n\n  <svg width=\"24\" height=\"24\" fill=\"none\" stroke=\"#004d40\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <line x1=\"5\" y1=\"12\" x2=\"19\" y2=\"12\"></line>\n    <polyline points=\"12 5 19 12 12 19\"></polyline>\n  </svg>\n\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <svg width=\"24\" height=\"24\" fill=\"none\" stroke=\"#004d40\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n      <rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"2\"></rect>\n      <line x1=\"16\" y1=\"2\" x2=\"16\" y2=\"6\"></line>\n      <line x1=\"8\" y1=\"2\" x2=\"8\" y2=\"6\"></line>\n      <line x1=\"3\" y1=\"10\" x2=\"21\" y2=\"10\"></line>\n    </svg>\n    <div>\n      <div style=\"font-size: 14px; color: #004d40;\">Livraison</div>\n      <div style=\"font-weight: bold; color: #004d40;\">{{ delivery_day }} {{ delivery_month_name }}</div>\n    </div>\n  </div>\n</div>"
+          }
         }
       },
       "block_order": [
@@ -364,7 +370,8 @@
         "quantity_selector_jNpGW3",
         "image_67t7nF",
         "buy_buttons_Mr6RQw",
-        "liquid_9Wn3wx"
+        "liquid_9Wn3wx",
+        "liquid_yBTAXq"
       ],
       "settings": {
         "full_width": true,
