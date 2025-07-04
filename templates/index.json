@@ -537,14 +537,14 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "",
+        "accordion_background": "#f3ebe6",
         "accordion_text_color": ""
       }
     },
@@ -564,7 +564,7 @@
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "#f0c417",
+        "button_background": "#ecb4b4",
         "button_text_color": "#1a1a1a"
       }
     },
