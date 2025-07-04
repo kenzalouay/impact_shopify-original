@@ -307,6 +307,14 @@
             "max_width": 500
           }
         },
+        "description_FBJxUL": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
         "kaching_bundles_app_block_Jxw7Xg": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -364,6 +372,46 @@
           "settings": {
             "liquid": "{% comment %}\n  Définir la date actuelle\n{% endcomment %}\n{% assign today_day = 'now' | date: \"%-d\" %}\n{% assign today_month_index = 'now' | date: \"%-m\" | minus: 1 %}\n{% assign months_fr = \"janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre\" | split: \",\" %}\n{% assign today_month_name = months_fr[today_month_index] %}\n\n{% comment %}\n  Définir la date de livraison J+10\n{% endcomment %}\n{% assign timestamp_today = 'now' | date: \"%s\" %}\n{% assign timestamp_delivery = timestamp_today | plus: 864000 %}\n{% assign delivery_day = timestamp_delivery | date: \"%-d\" %}\n{% assign delivery_month_index = timestamp_delivery | date: \"%-m\" | minus: 1 %}\n{% assign delivery_month_name = months_fr[delivery_month_index] %}\n\n<div style=\"background-color: #e6f9f3; border-radius: 10px; padding: 20px; display: flex; align-items: center; justify-content: center; max-width: 400px; font-family: sans-serif; margin: 0 auto;\">\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <svg width=\"24\" height=\"24\" fill=\"none\" stroke=\"#004d40\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\"></circle>\n      <polyline points=\"12 6 12 12 16 14\"></polyline>\n    </svg>\n    <div>\n      <div style=\"font-size: 14px; color: #004d40;\">Commande</div>\n      <div style=\"font-weight: bold; color: #004d40;\">Aujourd'hui</div>\n    </div>\n  </div>\n\n  <svg width=\"24\" height=\"24\" fill=\"none\" stroke=\"#004d40\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <line x1=\"5\" y1=\"12\" x2=\"19\" y2=\"12\"></line>\n    <polyline points=\"12 5 19 12 12 19\"></polyline>\n  </svg>\n\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <svg width=\"24\" height=\"24\" fill=\"none\" stroke=\"#004d40\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n      <rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"2\"></rect>\n      <line x1=\"16\" y1=\"2\" x2=\"16\" y2=\"6\"></line>\n      <line x1=\"8\" y1=\"2\" x2=\"8\" y2=\"6\"></line>\n      <line x1=\"3\" y1=\"10\" x2=\"21\" y2=\"10\"></line>\n    </svg>\n    <div>\n      <div style=\"font-size: 14px; color: #004d40;\">Livraison</div>\n      <div style=\"font-weight: bold; color: #004d40;\">{{ delivery_day }} {{ delivery_month_name }}</div>\n    </div>\n  </div>\n</div>"
           }
+        },
+        "collapsible_text_DBaXk8": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Caractéristiques",
+            "content": "<p>•<strong> Modes de température : 160°, 180° ou 200°</strong></p><p>•<strong>Sans fil</strong> pour une totale liberté de mouvement</p><p>• <strong>Autonomie jusqu’à 40 minutes</strong><br/>• <strong>Chauffe rapide en seulement 25 secondes</strong></p><p>•<strong>Batterie puissante</strong> de 3600 mAh<br/>• <strong>Voltage 7,4V</strong> / <strong>Puissance 60W</strong><br/>• Idéal pour une chauffe stable et continue</p><p>•<strong>Format compact et ultra léger</strong>, parfait pour les déplacements</p><p>•<strong>Recharge rapide via USB-C</strong>, même depuis la voiture ou une batterie externe</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_3NRpQx": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Essayez le 30 jours gratuitement",
+            "content": "<p>Essayez <strong>MyCurlora </strong>sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfaite, vous avez la possibilité de le retourner et <strong>vous recevrez un remboursement intégral</strong></p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_qtn7mC": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Comment utiliser MyCurlora?",
+            "content": "<ol><li>Allumez l’appareil en appuyant sur le bouton d’alimentation.</li><li>Sélectionnez la température et la durée en fonction de votre type de cheveux.</li><li>Choisissez le <strong>sens de la boucle</strong> (gauche ou droite) à l’aide des boutons.</li><li>Insérez une mèche dans l’ouverture prévue à cet effet.</li><li>Appuyez sur le bouton : la mèche s’enroulera automatiquement.</li><li>Lorsque vous entendez le bip sonore, relâchez : votre boucle est prête !</li></ol><p>Vous pouvez vous coiffer <strong>n’importe où, n’importe quand</strong>, sans prise ni contrainte.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_nHyke9": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Charges Optimal",
+            "content": "<p>Pour garantir des performances optimales et une longue durée de vie de votre <strong>MyCurlora</strong>, nous vous recommandons de la charger en utilisant un dock de charge d'une puissance minimale de 20W (charge rapide).</p><p>L'utilisation d'un chargeur rapide permet non seulement de réduire le temps de charge, mais également d'assurer une charge efficace et sécurisée. Cela est particulièrement important pour maintenir la performance et la durabilité de votre appareil.</p><p>Veuillez vérifier les spécifications de votre chargeur pour vous assurer qu'il répond à cette exigence. Une charge adéquate contribue à maximiser l'efficacité de votre <strong>MyCurlora</strong> et à prolonger sa durée de vie.</p><p>Merci pour votre compréhension et votre coopération.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -371,6 +419,7 @@
         "text_nRkEBb",
         "liquid_XxwNWb",
         "image_pDrTeb",
+        "description_FBJxUL",
         "kaching_bundles_app_block_Jxw7Xg",
         "liquid_BTrbhb",
         "liquid_NrHzL4",
@@ -379,13 +428,17 @@
         "image_67t7nF",
         "buy_buttons_Mr6RQw",
         "liquid_9Wn3wx",
-        "liquid_pidD7f"
+        "liquid_pidD7f",
+        "collapsible_text_DBaXk8",
+        "collapsible_text_3NRpQx",
+        "collapsible_text_qtn7mC",
+        "collapsible_text_nHyke9"
       ],
       "settings": {
         "full_width": true,
         "product": "mycurlora",
         "desktop_media_width": 40,
-        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_layout": "grid_highlight",
         "mobile_media_size": "contained",
         "mobile_carousel_control": "free_scroll",
         "enable_video_autoplay": true,
@@ -450,6 +503,7 @@
         "tab_eKD7Nj",
         "tab_ghCYfp"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
