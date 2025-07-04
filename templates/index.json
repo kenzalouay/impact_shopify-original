@@ -518,6 +518,47 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_bwUfW6": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_3bmxiG": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_knUbLd": {
+          "type": "heading",
+          "settings": {
+            "text": "Des boucles parfaite en 10 min",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_ywxb3k": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Gif étape </p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_3bmxiG",
+        "heading_knUbLd",
+        "richtext_ywxb3k"
+      ],
+      "disabled": true,
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq_twKXhx": {
       "type": "faq",
       "blocks": {
@@ -661,6 +702,7 @@
     "multi_column_dyePcr",
     "featured_product_nxX86g",
     "tabs_ffC8n6",
+    "rich_text_bwUfW6",
     "faq_twKXhx",
     "contact_tUFJaa",
     "17499333570c12ae29"
