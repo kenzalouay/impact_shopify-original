@@ -559,6 +559,65 @@
         "text_color": ""
       }
     },
+    "multi_column_tFajxK": {
+      "type": "multi-column",
+      "blocks": {
+        "item_wTDmHU": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Étape 1 - Préparez & Protégez",
+            "heading_tag": "h4",
+            "content": "<p>Appliquez votre spray thermo-protecteur sur cheveux secs ou légèrement humides. Séparez vos cheveux en mèches de 2-3 cm pour un résultat optimal. Allumez votre boucleur et sélectionnez la température adaptée à votre type de cheveux. En 2 minutes, vous êtes prête à créer des boucles parfaites.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3xFbF6": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Étape 2 - Bouclez en 10 secondes",
+            "heading_tag": "h4",
+            "content": "<p>Placez une mèche dans le boucleur et laissez la technologie faire le travail. Maintenez 8 à 12 secondes selon l'intensité souhaitée. Le système de rotation automatique crée des boucles uniformes sans effort. Répétez sur toutes vos mèches pour un résultat professionnel en quelques minutes.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tbWWNJ": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Étape 3 - Fixez & Sublimez",
+            "heading_tag": "h4",
+            "content": "<p>Laissez refroidir vos boucles quelques secondes, puis séparez-les délicatement avec vos doigts. Vaporisez votre spray fixateur pour une tenue longue durée. Admirez vos boucles volumineuses et brillantes qui durent jusqu'à 24h. Résultat salon garanti à domicile !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_wTDmHU",
+        "item_3xFbF6",
+        "item_tbWWNJ"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "3 étapes pour des boucles parfaites",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq_twKXhx": {
       "type": "faq",
       "blocks": {
@@ -704,6 +763,7 @@
     "featured_product_nxX86g",
     "tabs_ffC8n6",
     "rich_text_bwUfW6",
+    "multi_column_tFajxK",
     "faq_twKXhx",
     "contact_tUFJaa",
     "17499333570c12ae29"
