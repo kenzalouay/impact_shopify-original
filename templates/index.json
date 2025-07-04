@@ -639,12 +639,13 @@
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "#f3ebe6",
+        "accordion_background": "rgba(0,0,0,0)",
         "accordion_text_color": ""
       }
     },
     "contact_tUFJaa": {
       "type": "contact",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
