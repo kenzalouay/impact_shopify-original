@@ -565,6 +565,7 @@
         "item_wTDmHU": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/gif 1.mp4",
             "column_size": "3",
             "title": "Étape 1 - Préparez & Protégez",
             "heading_tag": "h4",
@@ -577,6 +578,7 @@
         "item_3xFbF6": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/gif 2.mp4",
             "column_size": "3",
             "title": "Étape 2 - Bouclez en 10 secondes",
             "heading_tag": "h4",
@@ -589,6 +591,7 @@
         "item_tbWWNJ": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/gif3(1).mp4",
             "column_size": "3",
             "title": "Étape 3 - Fixez & Sublimez",
             "heading_tag": "h4",
