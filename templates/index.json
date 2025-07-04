@@ -634,6 +634,104 @@
         "text_color": ""
       }
     },
+    "rich_text_axW6XY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WEkUNE": {
+          "type": "heading",
+          "settings": {
+            "text": "Sans filtre: les résultats",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_WEkUNE"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_carousel_hyXWe6": {
+      "type": "video-carousel",
+      "blocks": {
+        "video_Bdx9XK": {
+          "type": "video",
+          "settings": {
+            "product": "",
+            "collection": ""
+          }
+        },
+        "video_AbRfgR": {
+          "type": "video",
+          "settings": {
+            "product": "",
+            "collection": ""
+          }
+        },
+        "video_EbXKbt": {
+          "type": "video",
+          "settings": {
+            "product": "",
+            "collection": ""
+          }
+        },
+        "video_3AyKXx": {
+          "type": "video",
+          "settings": {
+            "product": "",
+            "collection": ""
+          }
+        },
+        "video_dPwMjJ": {
+          "type": "video",
+          "settings": {
+            "product": "",
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_Bdx9XK",
+        "video_AbRfgR",
+        "video_EbXKbt",
+        "video_3AyKXx",
+        "video_dPwMjJ"
+      ],
+      "name": "Video carousel",
+      "settings": {
+        "slide_width": 300,
+        "image_crop": "2:3",
+        "aspect_ratio": "9:16",
+        "autoplay": 8,
+        "gap": 10,
+        "show_arrows": false,
+        "text_size": 100,
+        "text_alignment": "center",
+        "text_color": "#121212",
+        "border_color": "#121212",
+        "background_color": "",
+        "border_radius": 10,
+        "base_width": 100,
+        "max_width": "",
+        "inner_padding": 40,
+        "outer_margin": 0,
+        "custom_css": "",
+        "mobile_custom_css": "",
+        "anchor_id": "",
+        "override_theme_font": false,
+        "heading_font": "serif",
+        "main_font": "sans-serif"
+      }
+    },
     "faq_twKXhx": {
       "type": "faq",
       "blocks": {
@@ -781,6 +879,8 @@
     "tabs_ffC8n6",
     "rich_text_bwUfW6",
     "multi_column_tFajxK",
+    "rich_text_axW6XY",
+    "video_carousel_hyXWe6",
     "faq_twKXhx",
     "contact_tUFJaa",
     "17499333570c12ae29"
