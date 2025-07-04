@@ -667,7 +667,7 @@
           "type": "video",
           "settings": {
             "html5_video": "shopify://files/videos/testimonie 1.mp4",
-            "product": "mycurlora",
+            "product": "",
             "collection": ""
           }
         },
@@ -675,7 +675,7 @@
           "type": "video",
           "settings": {
             "html5_video": "shopify://files/videos/testimonie 2.mp4",
-            "product": "mycurlora",
+            "product": "",
             "collection": ""
           }
         },
@@ -683,7 +683,7 @@
           "type": "video",
           "settings": {
             "html5_video": "shopify://files/videos/testimonie 3 .mp4",
-            "product": "mycurlora",
+            "product": "",
             "collection": ""
           }
         },
@@ -691,7 +691,7 @@
           "type": "video",
           "settings": {
             "html5_video": "shopify://files/videos/testimonie 4.mp4",
-            "product": "mycurlora",
+            "product": "",
             "collection": ""
           }
         }
