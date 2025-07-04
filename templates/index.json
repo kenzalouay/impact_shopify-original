@@ -666,35 +666,32 @@
         "video_Bdx9XK": {
           "type": "video",
           "settings": {
-            "product": "",
+            "html5_video": "shopify://files/videos/testimonie 1.mp4",
+            "product": "mycurlora",
             "collection": ""
           }
         },
         "video_AbRfgR": {
           "type": "video",
           "settings": {
-            "product": "",
+            "html5_video": "shopify://files/videos/testimonie 2.mp4",
+            "product": "mycurlora",
             "collection": ""
           }
         },
         "video_EbXKbt": {
           "type": "video",
           "settings": {
-            "product": "",
+            "html5_video": "shopify://files/videos/testimonie 3 .mp4",
+            "product": "mycurlora",
             "collection": ""
           }
         },
         "video_3AyKXx": {
           "type": "video",
           "settings": {
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_dPwMjJ": {
-          "type": "video",
-          "settings": {
-            "product": "",
+            "html5_video": "shopify://files/videos/testimonie 4.mp4",
+            "product": "mycurlora",
             "collection": ""
           }
         }
@@ -703,8 +700,7 @@
         "video_Bdx9XK",
         "video_AbRfgR",
         "video_EbXKbt",
-        "video_3AyKXx",
-        "video_dPwMjJ"
+        "video_3AyKXx"
       ],
       "name": "Video carousel",
       "settings": {
