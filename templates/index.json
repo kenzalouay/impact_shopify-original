@@ -315,8 +315,15 @@
         },
         "liquid_BTrbhb": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\n  <title>Alerte Stock</title>\n  <style>\n    body.unique-body-Xyz789 {\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      height: 100vh;\n      margin: 0;\n      background-color: #fff;\n    }\n\n    .unique-warning-container-Abc123 {\n      position: relative;\n      width: 100%;\n      max-width: 600px;\n      height: 40px;\n      overflow: hidden;\n    }\n\n    .unique-warning-Def456 {\n      position: relative;\n      width: 100%;\n      height: 100%;\n      display: flex;\n      align-items: center;\n      border-radius: 10px;\n      color: #333;\n      font-size: 13px;\n      padding: 10px;\n      border: 1px solid #E2E2E2;\n      box-sizing: border-box;\n      background-color: #ffe6e6;\n    }\n\n    .unique-circleRed-Stu901 {\n      width: 10px;\n      height: 10px;\n      border-radius: 50%;\n      background-color: #8b0000;\n      display: inline-block;\n      animation: unique-glowRed-Pqr678 1s infinite ease-in-out;\n    }\n\n    @keyframes unique-glowRed-Pqr678 {\n      0% { box-shadow: 0 0 3px 0 rgba(255, 0, 0, 0.7); }\n      50% { box-shadow: 0 0 8px 3px rgba(255, 0, 0, 0.5); }\n      100% { box-shadow: 0 0 3px 0 rgba(255, 0, 0, 0.7); }\n    }\n  </style>\n</head>\n<body class=\"unique-body-Xyz789\">\n\n  <div class=\"unique-warning-container-Abc123\">\n    <div class=\"unique-warning-Def456\">\n      <div class=\"unique-circleRed-Stu901\"></div>\n      <span style=\"margin-left: 10px;\">En stock : 9 restants</span>\n    </div>\n  </div>\n\n</body>\n</html>"
+          }
+        },
+        "liquid_NrHzL4": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: orange;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 20px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    /* background-color: #ffcccc; */ /* Background removed */\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Seulement 9 produits en stock</div>\n</div>"
           }
         },
         "separator_bMFNkC": {
@@ -366,6 +373,7 @@
         "image_pDrTeb",
         "kaching_bundles_app_block_Jxw7Xg",
         "liquid_BTrbhb",
+        "liquid_NrHzL4",
         "separator_bMFNkC",
         "quantity_selector_jNpGW3",
         "image_67t7nF",
