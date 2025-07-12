@@ -16,7 +16,7 @@
     "block_shadow_opacity": 10,
     "block_shadow_vertical_offset": 18,
     "background": "#ffffff",
-    "text_color": "#3d3d3d",
+    "text_color": "#4a4a4a",
     "header_background": "#ffffff",
     "header_text_color": "#3d3d3d",
     "footer_background": "#f2f2f2",
@@ -28,10 +28,10 @@
     "product_card_text_color": "#3d3d3d",
     "product_sold_out_badge_background": "#3d3d3d",
     "product_primary_badge_background": "#803cee",
-    "heading_font": "poppins_n7",
+    "heading_font": "poppins_n6",
     "heading_font_size": "large",
     "heading_letter_spacing": 2,
-    "text_font": "din_next_n4",
+    "text_font": "inter_n4",
     "text_font_size_desktop": 18,
     "heading_apparition": "split_fade",
     "product_color_display": "swatch",
@@ -39,19 +39,7 @@
     "cart_icon": "shopping_basket",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": [],
-    "blocks": {
-      "15557474716127144420": {
-        "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-        "disabled": false,
-        "settings": {}
-      },
-      "11532412952436166569": {
-        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Sound": {
