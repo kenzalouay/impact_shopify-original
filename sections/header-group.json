@@ -72,7 +72,7 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
-        "transparent_header_text_color": "#ffffff",
+        "transparent_header_text_color": "#f6efe7",
         "transparent_logo": "shopify://shop_images/My_Curlora_logo_banniere.png",
         "reduce_padding": false,
         "background_opacity": 0,
