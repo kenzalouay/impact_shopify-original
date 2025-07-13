@@ -84,6 +84,46 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_nHhUEF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pqtHE6": {
+          "type": "heading",
+          "settings": {
+            "text": "Ce que Eveflora vous apporte",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_pqtHE6"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_hremDY": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -213,6 +253,8 @@
   "order": [
     "image_with_text_overlay_zFEf8C",
     "logo_list_36nf68",
+    "rich_text_nHhUEF",
+    "video_hremDY",
     "main",
     "related-products"
   ]
