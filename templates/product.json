@@ -354,8 +354,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Est ce fait pour vous?",
+            "content": "<p><strong>Si vous cochez UNE SEULE de ces cases, ce produit est fait pour vous :</strong></p><p>✓ <strong>Vous êtes sexuellement active</strong>*</p><p> ✓ <strong>Vous vous souciez de votre odeur et goût vaginal</strong>* </p><p>✓ <strong>Vous ressentez souvent un inconfort vaginal</strong>* </p><p>✓ <strong>Vous êtes sujette aux déséquilibres vaginaux</strong>*</p>",
             "page": ""
           }
         }
