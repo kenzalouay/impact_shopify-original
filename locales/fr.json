@@ -448,9 +448,6 @@
     "checkout": {
       "general": {
         "continue_to_review": "Payer maintenant"
-      },
-      "notice_banner": {
-        "editable_shipping_address_violations_message_footer": "Ces déclarations n'ont pas été évaluées par les autorités sanitaires européennes. Ce produit n'est pas destiné à diagnostiquer, traiter, guérir ou prévenir une maladie. Les informations et conseils nutritionnels fournis par [NOM DE VOTRE ENTREPRISE] ne remplacent pas un avis médical professionnel. Les résultats peuvent varier d'une personne à l'autre. En cas de doute, consultez votre médecin."
       }
     }
   }
