@@ -194,6 +194,7 @@
         "item_eYWqEH": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1742407209__img_6409__original.jpg",
             "column_size": "3",
             "title": "Amélie, 32 ans",
             "heading_tag": "h4",
@@ -230,6 +231,7 @@
         "item_yHbqBc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1702381105__0__QaJ5B-kp__71jEgEw4-TL__original.jpg",
             "column_size": "3",
             "title": "Inès, 28 ans",
             "heading_tag": "h4",
@@ -242,6 +244,7 @@
         "item_GP9MKF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1744703299__20241207_1654391__original.jpg",
             "column_size": "3",
             "title": "Sarah, 27 ans",
             "heading_tag": "h4",
