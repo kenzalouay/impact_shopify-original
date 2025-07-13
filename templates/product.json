@@ -534,10 +534,11 @@
         "item_YHEPt9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_161_vp-ugc-review-image-2.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Megan B",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>j'adore ces probiotiques Les résultats sont visibles et il font exactement ce qu'ils promettent. Je recommande, 10/10.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
