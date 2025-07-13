@@ -368,6 +368,26 @@
             "content": "<p><strong>Ingrédients scientifiquement prouvés pour soutenir :</strong></p><ul><li><strong>Un pH vaginal sain</strong>*</li><li><strong>Une odeur vaginale naturelle</strong>*</li><li><strong>Une flore vaginale équilibrée</strong>*</li></ul>",
             "page": ""
           }
+        },
+        "collapsible_text_B3PE8x": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Utilisation recommandée",
+            "content": "<p><strong>Prenez 2 capsules une fois par jour, avec de l'eau.</strong></p><p><strong>Conservez votre flacon dans un endroit frais et sec.</strong></p><p><strong>La régularité est essentielle</strong> — EveFlorale devient pleinement efficace après environ 8 semaines.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_GGHhMJ": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -384,7 +404,9 @@
         "liquid_QNjMGE",
         "liquid_EaNdE4",
         "collapsible_text_PfVyGm",
-        "collapsible_text_i6kFVd"
+        "collapsible_text_i6kFVd",
+        "collapsible_text_B3PE8x",
+        "collapsible_text_GGHhMJ"
       ],
       "settings": {
         "full_width": true,
