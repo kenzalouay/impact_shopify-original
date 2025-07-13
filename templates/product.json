@@ -328,6 +328,14 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "image_aHGaXk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-13_a_22.30.11-removebg-preview.png",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -339,7 +347,8 @@
         "separator",
         "quantity_selector",
         "liquid_bD74a3",
-        "buy_buttons"
+        "buy_buttons",
+        "image_aHGaXk"
       ],
       "settings": {
         "full_width": true,
