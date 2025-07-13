@@ -76,8 +76,7 @@
                 <div class="product-info__vendor" {{ block.shopify_attributes }}>{{- 'general.on_boarding.product_vendor' | t -}}</div>
 
               {%- when 'title' -%}
-               <h2 class="product-info__title product-title--red {{ block.settings.heading_tag }}" {{ block.shopify_attributes }}>
-  {{ 'general.on_boarding.product_title' | t }}
+               <h2 class="product-info__title product-title--red {{ block.settings.heading_tag }}" {{ block.shopify_attributes }}> {{ 'general.on_boarding.product_title' | t }}
 </h2>
           
               {%- when 'price' -%}
