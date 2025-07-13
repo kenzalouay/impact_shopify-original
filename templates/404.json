@@ -298,9 +298,11 @@
             "heading_tag": "h2"
           }
         },
-        "badges_MjP4tR": {
-          "type": "badges",
-          "settings": {}
+        "text_TCeVrX": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"Franchement, je doutais… mais j’ai retrouvé un équilibre intime que je n’avais plus depuis des mois.\" - Camille, 27 ans</em></p>"
+          }
         },
         "price_UJ8UG6": {
           "type": "price",
@@ -317,14 +319,6 @@
         "separator_Hw6DAn": {
           "type": "separator",
           "settings": {}
-        },
-        "description_tBHHFF": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
         },
         "variant_picker_D9f8bG": {
           "type": "variant_picker",
@@ -359,11 +353,10 @@
       },
       "block_order": [
         "title_pfHWjb",
-        "badges_MjP4tR",
+        "text_TCeVrX",
         "price_UJ8UG6",
         "rating_ffhFVG",
         "separator_Hw6DAn",
-        "description_tBHHFF",
         "variant_picker_D9f8bG",
         "quantity_selector_RcdCti",
         "buy_buttons_7JwMkX",
