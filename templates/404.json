@@ -316,6 +316,19 @@
             "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">Excellent 4.7/5</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555; font-weight: bold; text-decoration: underline;\">(+ 880 Avis)</span>\n    </a>\n</body>"
           }
         },
+        "image_JATDMW": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
+          }
+        },
+        "liquid_tHAqtc": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: orange;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 20px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    /* background-color: #ffcccc; */ /* Background removed */\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Seulement 6 produits en stock</div>\n</div>"
+          }
+        },
         "price_UJ8UG6": {
           "type": "price",
           "settings": {
@@ -368,6 +381,8 @@
         "title_pfHWjb",
         "text_TCeVrX",
         "liquid_9WxWpF",
+        "image_JATDMW",
+        "liquid_tHAqtc",
         "price_UJ8UG6",
         "rating_ffhFVG",
         "separator_Hw6DAn",
