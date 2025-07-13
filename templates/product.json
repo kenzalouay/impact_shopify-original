@@ -211,6 +211,7 @@
         "item_whWEyK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-13_a_21.57.42.png",
             "column_size": "3",
             "title": "Yasmine, 36 ans",
             "heading_tag": "h4",
@@ -236,6 +237,7 @@
         "item_qyVFPi": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-13_a_21.58.36.png",
             "column_size": "3",
             "title": "Sarah, 27 ans",
             "heading_tag": "h4",
