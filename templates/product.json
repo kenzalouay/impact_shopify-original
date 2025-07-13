@@ -172,10 +172,11 @@
         "item_hDDLqc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1742407209__img_6409__original.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Amélia, 32 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Depuis que je prends Eveflora, je me sens beaucoup plus fraîche toute la journée. C’est discret, mais je sens vraiment la différence !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -204,12 +205,51 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_whWEyK": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HndLPM": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qyVFPi": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_hDDLqc",
         "item_KJ9wEW",
-        "item_wFxbre"
+        "item_wFxbre",
+        "item_whWEyK",
+        "item_HndLPM",
+        "item_qyVFPi"
       ],
       "name": "Multi-column",
       "settings": {
