@@ -25,6 +25,65 @@
         "overlay_opacity": 0
       }
     },
+    "logo_list_36nf68": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_74JbaT": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/cartlogo_People-removebg-preview.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Cixkmy": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Capture_d_ecran_2025-06-15_a_22.27.14-removebg-preview.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_yw4Jnj": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Capture_d_ecran_2025-06-15_a_22.24.54-removebg-preview.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_abLcJj": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/cart_logo_VOGUE-removebg-preview.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_74JbaT",
+        "logo_Cixkmy",
+        "logo_yw4Jnj",
+        "logo_abLcJj"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -153,6 +212,7 @@
   },
   "order": [
     "image_with_text_overlay_zFEf8C",
+    "logo_list_36nf68",
     "main",
     "related-products"
   ]
