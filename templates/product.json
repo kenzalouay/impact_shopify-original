@@ -426,26 +426,61 @@
         "input_text_color": ""
       }
     },
-    "related-products": {
-      "type": "related-products",
+    "rich_text_njfJeB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PhR3yJ": {
+          "type": "heading",
+          "settings": {
+            "text": "La science derrière Eveflora®",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_PhR3yJ"
+      ],
+      "name": "Rich text",
       "settings": {
-        "recommendations_count": 6,
-        "products": [],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "text_color": ""
+      }
+    },
+    "video_djYqt3": {
+      "type": "video",
+      "blocks": {
+        "play_GAhd3g": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_zQnKRx": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_GAhd3g",
+        "heading_zQnKRx"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     }
   },
@@ -458,6 +493,7 @@
     "image_with_text_overlay_ihD7y4",
     "multi_column_6HGGJw",
     "main",
-    "related-products"
+    "rich_text_njfJeB",
+    "video_djYqt3"
   ]
 }
