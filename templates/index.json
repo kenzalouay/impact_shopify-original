@@ -313,14 +313,6 @@
             "text": "<p>🎁<strong> CADEAU OFFERT : </strong>Kit Beauté (valeur: 19,90€) contenant: </p><p>- Peigne professionnel </p><p>- 2 pinces élégantes inclus !</p>"
           }
         },
-        "description_FBJxUL": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
         "kaching_bundles_app_block_Jxw7Xg": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -426,7 +418,6 @@
         "liquid_XxwNWb",
         "image_pDrTeb",
         "text_3YBGFd",
-        "description_FBJxUL",
         "kaching_bundles_app_block_Jxw7Xg",
         "liquid_BTrbhb",
         "liquid_NrHzL4",
