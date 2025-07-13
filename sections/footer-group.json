@@ -111,14 +111,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "text_F7YHb3": {
-          "type": "text",
-          "settings": {
-            "title": "",
-            "content": "<p>*Ces déclarations n'ont pas été évaluées par les autorités sanitaires européennes. Ce produit n'est pas destiné à diagnostiquer, traiter, guérir ou prévenir une maladie. Les informations et conseils nutritionnels fournis par [NOM DE VOTRE ENTREPRISE] ne remplacent pas un avis médical professionnel. Les résultats peuvent varier d'une personne à l'autre. En cas de doute, consultez votre médecin.</p>",
-            "enable_follow_on_shop": true
-          }
-        },
         "newsletter": {
           "type": "newsletter",
           "settings": {
@@ -146,7 +138,6 @@
         }
       },
       "block_order": [
-        "text_F7YHb3",
         "newsletter",
         "links",
         "text"
