@@ -521,10 +521,11 @@
         "item_Fh3UUz": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-13_a_21.16.07.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Mel",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>C'est la 3eme boite que je vient d'acheter, et quand je vous dit sa marche, VRAIMENT SA MARCHE. </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -565,7 +566,7 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
         "title": "Ne nous croyez pas sur parole",
         "content": "",
