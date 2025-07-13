@@ -547,10 +547,11 @@
         "item_aTCpmy": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-13_a_21.16.41.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Jeni R",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je n'avais même pas dit à mon copain que je prenais quelque chose, et il a remarqué la différence tout seul! il m'a même posé la question.. et je n'en suis qu'à la deuxième boite!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
