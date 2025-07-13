@@ -418,7 +418,7 @@
   "password": {
     "general": {
       "follow_us": "Nous suivre",
-      "powered_by": "Ces déclarations n'ont pas été évaluées par les autorités sanitaires européennes. Ce produit n'est pas destiné à diagnostiquer, traiter, guérir ou prévenir une maladie. Les informations et conseils nutritionnels fournis par K Elevate Brands ne remplacent pas un avis médical professionnel. Les résultats peuvent varier d'une personne à l'autre. En cas de doute, consultez votre médecin.",
+      "powered_by": "",
       "store_owner": "Gérant de la boutique ?",
       "login": "Se connecter"
     },
