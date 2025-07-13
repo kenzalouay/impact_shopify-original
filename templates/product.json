@@ -466,6 +466,54 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "accordion_content_AWrt3T": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_kJGk4q": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "FORMULE EXCLUSIVE V-POSITIV™",
+            "content": "<p><strong>Le quatuor d'élite pour votre santé intime</strong></p><p><strong>5 MILLIARDS D'UFC DE PUISSANCE CONCENTRÉE</strong></p><h3><strong> VOS 4 ALLIÉS SCIENTIFIQUES</strong></h3><p><strong>Lactobacillus acidophilus</strong> <em>Votre spécialiste intime & digestif</em></p><ul><li>Cible directement les déséquilibres vaginaux</li><li>Soutient également votre système digestif</li></ul><p><strong>⚖️ Lactobacillus rhamnosus</strong> <em>Votre équilibreur naturel</em></p><ul><li>Harmonise votre flore intime</li><li>Optimise votre bien-être gastro-intestinal</li></ul><p><strong>Lactobacillus reuteri</strong> <em>Votre bouclier immunitaire</em></p><ul><li>Renforce vos défenses naturelles</li><li>Protection 360° pour votre organisme</li></ul><p><strong> Lactobacillus fermentum</strong> <em>Votre booster de vitalité</em></p><ul><li>Stimule votre système immunitaire</li><li>Énergie et résistance au quotidien</li></ul><h3><strong> </strong></h3>",
+            "page": ""
+          }
+        },
+        "item_FaM44Q": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Question 2",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_kJGk4q",
+        "item_FaM44Q"
+      ],
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Les ingrédients clés",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -478,6 +526,7 @@
     "multi_column_6HGGJw",
     "main",
     "rich_text_njfJeB",
-    "video_djYqt3"
+    "video_djYqt3",
+    "accordion_content_AWrt3T"
   ]
 }
