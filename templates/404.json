@@ -304,6 +304,12 @@
             "text": "<p><em>\"Franchement, je doutais… mais j’ai retrouvé un équilibre intime que je n’avais plus depuis des mois.\" - Camille, 27 ans</em></p>"
           }
         },
+        "liquid_9WxWpF": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">Excellent 4.7/5</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555; font-weight: bold; text-decoration: underline;\">(+ 880 Avis)</span>\n    </a>\n</body>"
+          }
+        },
         "price_UJ8UG6": {
           "type": "price",
           "settings": {
@@ -354,6 +360,7 @@
       "block_order": [
         "title_pfHWjb",
         "text_TCeVrX",
+        "liquid_9WxWpF",
         "price_UJ8UG6",
         "rating_ffhFVG",
         "separator_Hw6DAn",
