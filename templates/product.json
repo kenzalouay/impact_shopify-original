@@ -358,6 +358,16 @@
             "content": "<p><strong>Si vous cochez UNE SEULE de ces cases, ce produit est fait pour vous :</strong></p><p>✓ <strong>Vous êtes sexuellement active</strong>*</p><p> ✓ <strong>Vous vous souciez de votre odeur et goût vaginal</strong>* </p><p>✓ <strong>Vous ressentez souvent un inconfort vaginal</strong>* </p><p>✓ <strong>Vous êtes sujette aux déséquilibres vaginaux</strong>*</p>",
             "page": ""
           }
+        },
+        "collapsible_text_i6kFVd": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Ce que cela vous apporte",
+            "content": "<p><strong>Ingrédients scientifiquement prouvés pour soutenir :</strong></p><ul><li><strong>Un pH vaginal sain</strong>*</li><li><strong>Une odeur vaginale naturelle</strong>*</li><li><strong>Une flore vaginale équilibrée</strong>*</li></ul>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -373,7 +383,8 @@
         "buy_buttons",
         "liquid_QNjMGE",
         "liquid_EaNdE4",
-        "collapsible_text_PfVyGm"
+        "collapsible_text_PfVyGm",
+        "collapsible_text_i6kFVd"
       ],
       "settings": {
         "full_width": true,
