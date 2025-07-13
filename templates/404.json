@@ -226,12 +226,51 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_yHbqBc": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Inès, 28 ans",
+            "heading_tag": "h4",
+            "content": "<p>J'avais souvent des sensations d’inconfort sans trop comprendre pourquoi. Mon gynéco m’a parlé du pH vaginal et franchement, Eveflora a tout changé. Plus de gêne, plus de déséquilibre.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GP9MKF": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Sarah, 27 ans",
+            "heading_tag": "h4",
+            "content": "<p>Une seule gélule le matin avec mon thé, et c’est tout. J’adore la simplicité du geste. Pas de prise de tête, pas d’oubli.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yghw3B": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_eYWqEH",
         "item_AYYVVF",
-        "item_fJhfpY"
+        "item_fJhfpY",
+        "item_yHbqBc",
+        "item_GP9MKF",
+        "item_yghw3B"
       ],
       "name": "Multi-column",
       "settings": {
