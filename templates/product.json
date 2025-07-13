@@ -273,14 +273,16 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
+          }
+        },
+        "text_zaNGdK": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"C’était un peu un dernier essai… et c’est celui qui a marché. Plus de gêne, plus d’odeur, plus de stress\" , Julie, 34 ans </em></p>"
           }
         },
         "badges": {
@@ -343,8 +345,8 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
+        "text_zaNGdK",
         "badges",
         "price",
         "rating",
