@@ -519,9 +519,10 @@
         "review_YPCgVK": {
           "type": "review",
           "settings": {
-            "title": "",
-            "author": "",
-            "text": ""
+            "image": "shopify://shop_images/imgi_160_vp-ugc-review-image-1.jpg",
+            "title": "Trop contente!",
+            "author": "Caroline T.",
+            "text": "Je n'avais même pas prévenu mon copain ue je prenais quelque chose et pourtant il a remarqué un changement et ma demandé ce que c'était! et pourtant ce n'est que la deuxième boite!"
           }
         },
         "review_ecFVyD": {
