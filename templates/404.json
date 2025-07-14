@@ -389,8 +389,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Mode d'emploi",
+            "content": "<p>Prendre 2 gélules URO une fois par jour, avec de l'eau.</p><p>Conserver votre flacon dans un endroit frais et sec.</p><p>La régularité est essentielle— URO est pleinement efficace après environ 8 semaines.</p>",
             "page": ""
           }
         },
