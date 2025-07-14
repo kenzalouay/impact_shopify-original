@@ -495,6 +495,28 @@
         "heading_gradient": ""
       }
     },
+    "review_carrouselle_fK8tiE": {
+      "type": "Review-carrouselle",
+      "blocks": {
+        "review_WiQ9Q4": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/imgi_161_vp-ugc-review-image-2.jpg",
+            "title": "Je recommande à 100%",
+            "author": "Sophie D.",
+            "text": "J'adore sincèrement c'est probiotiques. Les résultats sont visibles et ils sont exactement comme annoncé."
+          }
+        }
+      },
+      "block_order": [
+        "review_WiQ9Q4"
+      ],
+      "name": "Carrousel d'avis",
+      "settings": {
+        "bg_color": "#F6EFE7",
+        "scroll_speed": 40
+      }
+    },
     "rich_text_LhxWAR": {
       "type": "rich-text",
       "blocks": {
@@ -744,6 +766,7 @@
     "featured_product_nHr7t4",
     "image_with_text_overlay_wd9gT3",
     "tabs_eBQVtT",
+    "review_carrouselle_fK8tiE",
     "rich_text_LhxWAR",
     "multi_column_Y7UT3U",
     "rich_text_rBLRe8",
