@@ -361,7 +361,47 @@
         "liquid_gFp6Y7": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "{% comment %}\n  Définir la date actuelle\n{% endcomment %}\n{% assign today_day = 'now' | date: \"%-d\" %}\n{% assign today_month_index = 'now' | date: \"%-m\" | minus: 1 %}\n{% assign months_fr = \"janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre\" | split: \",\" %}\n{% assign today_month_name = months_fr[today_month_index] %}\n\n{% comment %}\n  Définir la date de livraison J+10\n{% endcomment %}\n{% assign timestamp_today = 'now' | date: \"%s\" %}\n{% assign timestamp_delivery = timestamp_today | plus: 864000 %}\n{% assign delivery_day = timestamp_delivery | date: \"%-d\" %}\n{% assign delivery_month_index = timestamp_delivery | date: \"%-m\" | minus: 1 %}\n{% assign delivery_month_name = months_fr[delivery_month_index] %}\n\n<div style=\"background-color: #e6f9f3; border-radius: 10px; padding: 20px; display: flex; align-items: center; justify-content: center; max-width: 400px; font-family: sans-serif; margin: 0 auto;\">\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <svg width=\"24\" height=\"24\" fill=\"none\" stroke=\"#004d40\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\"></circle>\n      <polyline points=\"12 6 12 12 16 14\"></polyline>\n    </svg>\n    <div>\n      <div style=\"font-size: 14px; color: #004d40;\">Commande</div>\n      <div style=\"font-weight: bold; color: #004d40;\">Aujourd'hui</div>\n    </div>\n  </div>\n\n  <svg width=\"24\" height=\"24\" fill=\"none\" stroke=\"#004d40\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <line x1=\"5\" y1=\"12\" x2=\"19\" y2=\"12\"></line>\n    <polyline points=\"12 5 19 12 12 19\"></polyline>\n  </svg>\n\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <svg width=\"24\" height=\"24\" fill=\"none\" stroke=\"#004d40\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n      <rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"2\"></rect>\n      <line x1=\"16\" y1=\"2\" x2=\"16\" y2=\"6\"></line>\n      <line x1=\"8\" y1=\"2\" x2=\"8\" y2=\"6\"></line>\n      <line x1=\"3\" y1=\"10\" x2=\"21\" y2=\"10\"></line>\n    </svg>\n    <div>\n      <div style=\"font-size: 14px; color: #004d40;\">Livraison</div>\n      <div style=\"font-weight: bold; color: #004d40;\">{{ delivery_day }} {{ delivery_month_name }}</div>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "collapsible_text_hGH3n3": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_Qc76LE": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_YYLigT": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_A48AeW": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
           }
         }
       },
@@ -375,7 +415,11 @@
         "image_9nDEdM",
         "buy_buttons_7JwMkX",
         "liquid_ygJckQ",
-        "liquid_gFp6Y7"
+        "liquid_gFp6Y7",
+        "collapsible_text_hGH3n3",
+        "collapsible_text_Qc76LE",
+        "collapsible_text_YYLigT",
+        "collapsible_text_A48AeW"
       ],
       "name": "Featured product",
       "settings": {
