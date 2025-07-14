@@ -474,20 +474,11 @@
             "content": "<p><strong>Nourrit vos probiotiques pour une efficacité prolongée</strong></p><p>Les prébiotiques XOS servent d'aliment aux probiotiques, leur permettant de rester actifs plus longtemps dans votre organisme.</p>",
             "page": ""
           }
-        },
-        "tab_kJELAW": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "tab_cMnjAj",
-        "tab_CwzPMf",
-        "tab_kJELAW"
+        "tab_CwzPMf"
       ],
       "name": "Tabs",
       "settings": {
