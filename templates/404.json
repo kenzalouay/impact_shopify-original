@@ -440,6 +440,70 @@
         "input_text_color": ""
       }
     },
+    "image_with_text_overlay_wd9gT3": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/imgi_212_URO-VP-Ingredients-Desktop_0d50008a-ca7d-4ae5-a8bf-ead2435e35d8.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "tabs_eBQVtT": {
+      "type": "tabs",
+      "blocks": {
+        "tab_cMnjAj": {
+          "type": "tab",
+          "settings": {
+            "title": "4 souches puissantes avec 5 milliards d'UFC pour une protection renforcée",
+            "content": "<h3><strong>Lactobacillus acidophilus</strong></h3><p>Cible spécifiquement les problèmes vaginaux et digestifs*</p><h3><strong>Lactobacillus rhamnosus</strong></h3><p>Favorise l'équilibre de la flore vaginale et intestinale*</p><h3><strong>Lactobacillus reuteri</strong></h3><p>Renforce naturellement vos défenses immunitaires*</p><h3><strong>Lactobacillus fermentum</strong></h3><p>Stimule votre système immunitaire au quotidien*</p>",
+            "page": ""
+          }
+        },
+        "tab_CwzPMf": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_kJELAW": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_cMnjAj",
+        "tab_CwzPMf",
+        "tab_kJELAW"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "small",
+        "subheading": "",
+        "title": "Les ingrédients clés",
+        "text_alignment": "left",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "rich_text_LhxWAR": {
       "type": "rich-text",
       "blocks": {
@@ -687,6 +751,8 @@
     "image_with_text_overlay_8eWxxM",
     "multi_column_pWngzY",
     "featured_product_nHr7t4",
+    "image_with_text_overlay_wd9gT3",
+    "tabs_eBQVtT",
     "rich_text_LhxWAR",
     "multi_column_Y7UT3U",
     "rich_text_rBLRe8",
