@@ -17,7 +17,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/banner_ordi2.png",
+        "image": "shopify://shop_images/Votre_equilibre_intime.png",
+        "mobile_image": "shopify://shop_images/banner_telephone.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -153,7 +154,7 @@
           "type": "heading",
           "settings": {
             "text": "Enfin un équilibre intime parfait sans effort",
-            "heading_tag": "h1",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
