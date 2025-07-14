@@ -528,9 +528,10 @@
         "review_ecFVyD": {
           "type": "review",
           "settings": {
-            "title": "",
-            "author": "",
-            "text": ""
+            "image": "shopify://shop_images/imgi_140_vp-ugc-review-image-44.jpg",
+            "title": "Incroyable",
+            "author": "Mélanie A.",
+            "text": "Je les aime trop! pas d'effets secondaires pour moi. Je sens bon en bas. Je les recommande à toutes les femmes honnêtement!"
           }
         }
       },
