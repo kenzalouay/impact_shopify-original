@@ -369,8 +369,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Est-ce que c'est pour vous ?",
+            "content": "<p>Si vous cochez <em>n'importe laquelle</em> de ces cases, c'est pour vous :</p><p>✓ Vous êtes sexuellement active* ✓ Vous vous préoccupez de votre odeur et goût vaginal* ✓ Vous ressentez souvent un inconfort vaginal* ✓ Vous êtes sujette aux déséquilibres vaginaux*</p>",
             "page": ""
           }
         },
