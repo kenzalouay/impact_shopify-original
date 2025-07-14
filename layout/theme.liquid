@@ -15,7 +15,15 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
     <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0">
     <meta name="theme-color" content="{{ settings.header_background }}">
 
-    <title>{% if page_title == blank %}{{ shop.name }}{% else %}{{ page_title }}{% if current_page != 1 %} &ndash; {{ 'general.page' | t: page: current_page }}{% endif %}{% endif %}</title>
+   <title>
+  {% if template == 'index' %}
+    Eveflora – Bien-être intime au naturel
+  {% elsif page_title == blank %}
+    {{ shop.name }}
+  {% else %}
+    {{ page_title }}{% if current_page != 1 %} – {{ 'general.page' | t: page: current_page }}{% endif %}
+  {% endif %}
+</title>
 
     {%- if page_description -%}
       <meta name="description" content="{{ page_description | escape }}">
