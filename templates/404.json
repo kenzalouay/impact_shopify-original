@@ -223,6 +223,7 @@
         "item_fJhfpY": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-13_a_21.14.51_e8fbdd96-ad67-4d2c-8446-03cf0dba11bb.png",
             "column_size": "3",
             "title": "Yasmine, 36 ans",
             "heading_tag": "h4",
@@ -245,6 +246,19 @@
             "link_style": "link"
           }
         },
+        "item_yghw3B": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-13_a_21.17.33_601e7512-0296-41b4-b5c6-b81227043024.png",
+            "column_size": "3",
+            "title": "Clara, 32 ans",
+            "heading_tag": "h4",
+            "content": "<p>Je ne connaissais pas l’importance du microbiote vaginal avant de découvrir ce produit. Depuis que je le prends, je me sens beaucoup plus équilibrée et stable.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_GP9MKF": {
           "type": "item",
           "settings": {
@@ -257,18 +271,6 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_yghw3B": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Clara, 32 ans",
-            "heading_tag": "h4",
-            "content": "<p>Je ne connaissais pas l’importance du microbiote vaginal avant de découvrir ce produit. Depuis que je le prends, je me sens beaucoup plus équilibrée et stable.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
@@ -276,8 +278,8 @@
         "item_AYYVVF",
         "item_fJhfpY",
         "item_yHbqBc",
-        "item_GP9MKF",
-        "item_yghw3B"
+        "item_yghw3B",
+        "item_GP9MKF"
       ],
       "name": "Multi-column",
       "settings": {
