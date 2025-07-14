@@ -379,8 +379,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Bénéfices",
+            "content": "<p>Ingrédients soutenus par la science pour favoriser :</p><ul><li>Un pH vaginal sain*</li><li>Une odeur vaginale saine*</li><li>Une flore vaginale saine*</li></ul>",
             "page": ""
           }
         },
