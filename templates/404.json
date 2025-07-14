@@ -577,29 +577,13 @@
             "title": "Peut-on prendre Urogénitales Eveflora avec d'autres médicaments?",
             "content": "<p>Consultez votre médecin avant utilisation si vous souffrez d’une condition médicale ou si vous prenez des médicaments. Ne pas utiliser si le sceau de sécurité est cassé ou manquant. Tenir hors de portée des enfants.</p>"
           }
-        },
-        "item_PJhHei": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
-        },
-        "item_jKyLE7": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
         }
       },
       "block_order": [
         "item_XegF6g",
         "item_BTqn8h",
         "item_xkUA96",
-        "item_fKVkcC",
-        "item_PJhHei",
-        "item_jKyLE7"
+        "item_fKVkcC"
       ],
       "name": "FAQ",
       "settings": {
