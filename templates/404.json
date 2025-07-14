@@ -543,191 +543,8 @@
       ],
       "name": "Carrousel d'avis",
       "settings": {
-        "bg_color": "#F6EFE7",
+        "bg_color": "#f6efe7",
         "scroll_speed": 40
-      }
-    },
-    "rich_text_LhxWAR": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_PURBVm": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_PURBVm"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_Y7UT3U": {
-      "type": "multi-column",
-      "blocks": {
-        "item_Wc7VRn": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_mzkUCE": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_BW3tQK": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_Wc7VRn",
-        "item_mzkUCE",
-        "item_BW3tQK"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_rBLRe8": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_zXi76x": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_zXi76x"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "video_carousel_fBeer8": {
-      "type": "video-carousel",
-      "blocks": {
-        "video_Pn9cAV": {
-          "type": "video",
-          "settings": {
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_rWJ7xd": {
-          "type": "video",
-          "settings": {
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_cVdTKE": {
-          "type": "video",
-          "settings": {
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_74Yqz7": {
-          "type": "video",
-          "settings": {
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_HF7NF6": {
-          "type": "video",
-          "settings": {
-            "product": "",
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_Pn9cAV",
-        "video_rWJ7xd",
-        "video_cVdTKE",
-        "video_74Yqz7",
-        "video_HF7NF6"
-      ],
-      "name": "Video carousel",
-      "settings": {
-        "slide_width": 300,
-        "image_crop": "none",
-        "aspect_ratio": "9:16",
-        "autoplay": 8,
-        "gap": 10,
-        "show_arrows": false,
-        "text_size": 100,
-        "text_alignment": "left",
-        "text_color": "#121212",
-        "border_color": "#121212",
-        "background_color": "",
-        "border_radius": 10,
-        "base_width": 100,
-        "max_width": "",
-        "inner_padding": 40,
-        "outer_margin": 0,
-        "custom_css": "",
-        "mobile_custom_css": "",
-        "anchor_id": "",
-        "override_theme_font": false,
-        "heading_font": "serif",
-        "main_font": "sans-serif"
       }
     },
     "faq_WYPH7F": {
@@ -736,8 +553,8 @@
         "item_XegF6g": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Qu'est-ce que les probiotiques intimes?",
+            "content": "<p>URO Vaginal Probiotic est un complément synbiotique naturel et exclusif pour la santé vaginale (ce qui signifie qu’il contient à la fois des prébiotiques et des probiotiques), formulé pour soutenir un pH vaginal sain, limiter les odeurs et équilibrer la flore intime.</p>"
           }
         },
         "item_BTqn8h": {
@@ -765,7 +582,7 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
@@ -797,10 +614,6 @@
     "image_with_text_overlay_wd9gT3",
     "tabs_eBQVtT",
     "review_carrouselle_fK8tiE",
-    "rich_text_LhxWAR",
-    "multi_column_Y7UT3U",
-    "rich_text_rBLRe8",
-    "video_carousel_fBeer8",
     "faq_WYPH7F"
   ]
 }
