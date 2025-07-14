@@ -210,6 +210,7 @@
         "item_AYYVVF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-13_a_21.16.26_a752ddeb-1ec2-4ae0-bcf0-8784d254d01e.png",
             "column_size": "3",
             "title": "Élodie, 30 ans",
             "heading_tag": "h4",
