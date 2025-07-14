@@ -570,12 +570,36 @@
             "title": "Peut-on prendre ces compléments pendant les règles?",
             "content": "<p>La durée des menstruations peut varier en fonction de plusieurs facteurs liés au mode de vie, il est donc possible que vous constatiez des changements dans votre cycle menstruel, même en prenant des probiotiques. Il est recommandé de consulter un professionnel de santé en cas de question.</p>"
           }
+        },
+        "item_fKVkcC": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-on prendre Urogénitales Eveflora avec d'autres médicaments?",
+            "content": "<p>Consultez votre médecin avant utilisation si vous souffrez d’une condition médicale ou si vous prenez des médicaments. Ne pas utiliser si le sceau de sécurité est cassé ou manquant. Tenir hors de portée des enfants.</p>"
+          }
+        },
+        "item_PJhHei": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_jKyLE7": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
         "item_XegF6g",
         "item_BTqn8h",
-        "item_xkUA96"
+        "item_xkUA96",
+        "item_fKVkcC",
+        "item_PJhHei",
+        "item_jKyLE7"
       ],
       "name": "FAQ",
       "settings": {
