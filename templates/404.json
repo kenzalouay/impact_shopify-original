@@ -506,10 +506,38 @@
             "author": "Sophie D.",
             "text": "J'adore sincèrement c'est probiotiques. Les résultats sont visibles et ils sont exactement comme annoncé."
           }
+        },
+        "review_jXkrNc": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/imgi_139_vp-ugc-review-image-3.jpg",
+            "title": "Je les adore!",
+            "author": "Amel R.",
+            "text": "C'est la 3ème boite que  je commande et qua je dis que ça marche, vraiment ÇA MARCHE! si vous n'achetez pas ces probiotiques c'est que vous êtes surement entrain de dormir."
+          }
+        },
+        "review_YPCgVK": {
+          "type": "review",
+          "settings": {
+            "title": "",
+            "author": "",
+            "text": ""
+          }
+        },
+        "review_ecFVyD": {
+          "type": "review",
+          "settings": {
+            "title": "",
+            "author": "",
+            "text": ""
+          }
         }
       },
       "block_order": [
-        "review_WiQ9Q4"
+        "review_WiQ9Q4",
+        "review_jXkrNc",
+        "review_YPCgVK",
+        "review_ecFVyD"
       ],
       "name": "Carrousel d'avis",
       "settings": {
